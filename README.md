@@ -1,6 +1,6 @@
 pottfolio for Tolga Gokturk Cohce, made with pure HTML and CSS
 
-[live link]()
+[live link](https://manilomonilo.github.io/turk-portfolio/)
 
 desktop view             |  phone view
 :-------------------------:|:-------------------------:
